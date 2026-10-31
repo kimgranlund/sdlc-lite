@@ -2,7 +2,7 @@
 
 The context plugin (formerly Progressive Context), newest first. Releases before 0.2.0 are recorded only in git history.
 
-## [Unreleased]
+## [0.5.1] - 2026-10-31
 
 ### Changed
 
